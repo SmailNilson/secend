@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/monnayeur-api/monnayeur-api.iml" filepath="$PROJECT_DIR$/monnayeur-api/monnayeur-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monnayeur-webapp/monnayeur-webapp.iml" filepath="$PROJECT_DIR$/monnayeur-webapp/monnayeur-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swa-monnayeur.iml" filepath="$PROJECT_DIR$/swa-monnayeur.iml" />
+    </modules>
+  </component>
+</project>

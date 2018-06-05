@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="monnayeur-api" />
+        <module name="monnayeur-webapp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="monnayeur-api" target="1.7" />
+      <module name="monnayeur-domain" target="1.8" />
+      <module name="monnayeur-webapp" target="1.8" />
+      <module name="swa-monnayeur" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

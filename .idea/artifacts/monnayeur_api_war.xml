@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="monnayeur-api:war">
+    <output-path>$PROJECT_DIR$/monnayeur-api/target</output-path>
+    <root id="archive" name="monnayeur-api.war">
+      <element id="artifact" artifact-name="monnayeur-api:war exploded" />
+    </root>
+  </artifact>
+</component>
